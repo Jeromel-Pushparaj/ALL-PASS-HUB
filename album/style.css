@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    backdrop-filter: blur(16px) saturate(180%)!important;
+    -webkit-backdrop-filter: blur(16px) saturate(180%)!important;
+    background-color: rgba(17, 25, 40, 0.75)!important;
+    border-radius: 12px!important;
+    border: 1px solid rgba(255, 255, 255, 0.125)!important; 
+    border-radius: 0px!important;
+}
+.album{
+    background-color: black !important;
+    backdrop-filter: blur(16px) saturate(180%)!important;
+    -webkit-backdrop-filter: blur(16px) saturate(180%)!important;
+    background-color: rgba(17, 25, 40, 0.75)!important;
+    border-radius: 12px!important;
+    border: 1px solid rgba(255, 255, 255, 0.125)!important; 
+    border-radius: 0px!important;
+}
+.navbar {
+    backdrop-filter: blur(16px) saturate(180%)!important;
+          -webkit-backdrop-filter: blur(16px) saturate(180%)!important;
+          background-color: rgba(17, 25, 40, 0.75)!important;
+          border-radius: 12px!important;
+          border: 1px solid rgba(255, 255, 255, 0.125)!important; 
+          border-radius: 0px!important;
+}
+.card-body{
+    backdrop-filter: blur(16px) saturate(180%);
+          -webkit-backdrop-filter: blur(16px) saturate(180%);
+          background-color: rgba(17, 25, 40, 0.75);
+          border-radius: 12px;
+          border: 1px solid rgba(255, 255, 255, 0.125); 
+          border-radius: 1px;
+}
+footer{
+    backdrop-filter: blur(16px) saturate(180%)!important;
+    -webkit-backdrop-filter: blur(16px) saturate(180%)!important;
+    background-color: rgba(17, 25, 40, 0.75)!important;
+    border-radius: 12px!important;
+    border: 1px solid rgba(255, 255, 255, 0.125)!important; 
+    border-radius: 0px!important;
+}
